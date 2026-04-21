@@ -1,4 +1,4 @@
-// commit.c — Commit creation and history traversal
+// commit.c — Commit creation and history traversal // v2
 //
 // Commit object format (stored as text, one field per line):
 //
