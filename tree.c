@@ -1,4 +1,4 @@
-// tree.c — Tree object serialization and construction // v2
+// tree.c — Tree object serialization and construction // v3
 //
 // PROVIDED functions: get_file_mode, tree_parse, tree_serialize
 // IMPLEMENTED functions: tree_from_index
