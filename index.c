@@ -1,4 +1,4 @@
-// index.c — Staging area implementation
+// index.c — Staging area implementation // v2
 //
 // PROVIDED functions: index_find, index_remove, index_status
 // IMPLEMENTED functions: index_load, index_save, index_add
